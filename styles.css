@@ -83,7 +83,9 @@ nav .right a span {
 .hero-section .text .links {
   margin-top: 25px;
 }
-
+#name{
+  color: #4a76ee;
+}
 .hero-section .text .links a {
   display: inline-block;
   padding: 5px 10px;
